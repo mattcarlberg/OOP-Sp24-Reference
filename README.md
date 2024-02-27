@@ -3,6 +3,30 @@ Spring 2024
 
 # References 
 
+## Class 12 - For Loops
+
+* Data Plan demo: [video lecture](https://drive.google.com/file/d/1cMPipi4L_FJSXRkxMtIyZ3H7uHjzsYHk/view?usp=sharing) and [code](https://replit.com/@mcarlberg/Class11-DataPlan) 
+
+* Parking Lot demo: [video lecture](https://bit.ly/bard-for-parking-lot) and [code](https://replit.com/@mcarlberg/Class12-ParkingLot)
+
+* Swap/Double Letters demo: [video lecture](https://bit.ly/bard-for-swap-doube) and [code](https://replit.com/@mcarlberg/Class12-Double-Swap)
+
+* For loop tutorials: [Geeks for Geeks](https://www.geeksforgeeks.org/python-for-loops/) and [W3Schools](https://www.w3schools.com/python/python_for_loops.asp)
+
+* Extended [reading](https://drive.google.com/file/d/1Hye4tg1M0qLJ0B9EokB9lu0xJ22gEubQ/view?usp=sharing)
+
+
+## Class 09 - And Or Not
+
+* [Video lecture](https://drive.google.com/file/d/18oY8u8FyrSakCcrALVda5qtZBKjfhonM/view?usp=sharing) 
+
+* Scam caller [demo](https://replit.com/@mcarlberg/Class09-ScamCallers)
+
+* and/or/not [tutorial](https://www.geeksforgeeks.org/python-logical-operators-with-examples-improvement-needed/).
+
+* Extended [reading](https://drive.google.com/file/d/1Gyqs1fXGq1vQ-gsIgByu52JyArWPy5Zj/view?usp=sharing)
+
+
 ## Class 07 - If Elif Else
 
 * [Video lecture](https://drive.google.com/file/d/1YUl94RtO25E8pvyzT4cKXLEsiMmyzkCz/view?usp=sharing) 
