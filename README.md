@@ -5,7 +5,7 @@ Spring 2024
 
 ## Class 17 - Lists
 
-* [Common list algorithms](https://docs.google.com/document/d/1igj3J9fbM-vat0iPu3uc39PXeYIbzXyFGDco9q-5rq0/edit?usp=sharing)
+* [Common list algorithms](https://docs.google.com/document/d/1vS5MMx6NWPeieRGceAo6OtJoGZiVRySBmi5nhZmMnIA/edit?usp=sharing)
   
 * [Whiteboard examples from class with answers](https://docs.google.com/document/d/1J2mML1EloTDHoIbXXb4WuJZQw4llKBgwzZd1fy50VJk/edit?usp=sharing)
 
