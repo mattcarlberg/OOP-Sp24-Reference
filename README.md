@@ -3,6 +3,21 @@ Spring 2024
 
 # References 
 
+## Class 30 - Functions 
+
+* Card game [video lecture](https://drive.google.com/file/d/1lb_jEPVUz7pJPG8qPUVsL_f7t0oLG7SK/view?usp=sharing) and [demo code](https://replit.com/@mcarlberg/HW25DemoCardGame) 
+
+* Class materials: Class 28 [whiteboard problems](https://docs.google.com/document/d/1Tymh8DzghSOVQohID6bldedubhL_jdUZw2ys5h2puiQ/edit?usp=sharing) and Class 29 [presentation on functions](https://docs.google.com/presentation/d/1Oo8YyS3l1MlMjmmMpK5ZMDbzlxhc8QDV0b9Jm2S-LP4/edit?usp=sharing)
+
+* Lots of function [examples](https://replit.com/@mcarlberg/Sp24-HW27-FunctionsPractice-SOLUTIONS#main.py) (all HW 27 solutions included)
+
+* W3Schools tutorial on [functions](https://www.w3schools.com/python/python_functions.asp)
+   
+* Relevant [flash cards](https://drive.google.com/file/d/1Pbpyg1eRtImUo-kD8Pbx9Y5JPk1WavrA/view?usp=sharing)
+
+* Extended [reading](https://drive.google.com/file/d/1PVRf7MvHokHhCdiz7o4ey2tsB_nZSbgv/view?usp=sharing)
+
+
 ## Class 17 - Lists
 
 * [Common list algorithms](https://docs.google.com/document/d/1vS5MMx6NWPeieRGceAo6OtJoGZiVRySBmi5nhZmMnIA/edit?usp=sharing)
