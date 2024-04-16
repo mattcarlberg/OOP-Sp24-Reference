@@ -3,7 +3,7 @@ Spring 2024
 
 # References 
 
-## Class 35 - Instances
+## Class 35 - Instances and Class 37 - Classes
 
 * [Example code](https://replit.com/@mcarlberg/bballsavingsAcct#main.py) from in-class exercises
 
