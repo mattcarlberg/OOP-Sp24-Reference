@@ -3,6 +3,18 @@ Spring 2024
 
 # References 
 
+## Class 44 - Lists of Objects
+
+* Important [visualization](https://docs.google.com/presentation/d/1hBFsWs-R9WMWApvKfYQ9UwhHZANC1ovfvQaMerfCjhM/edit?usp=sharing) of a Race object from Project 2.
+
+* [Demo code](https://replit.com/@mcarlberg/ListOfObjects-Ver1#main.py) of a list of Human objects.
+
+* [Demo code](https://replit.com/@mcarlberg/ListOfObjects-Ver2#main.py) of defining a School object, which has a list of Student objects as an attribute. 
+
+* Geeks for Geeks [tutorial](https://www.geeksforgeeks.org/how-to-create-a-list-of-object-in-python-class/)
+
+
+
 ## Class 35 - Instances and Class 37 - Classes
 
 * [Example code](https://replit.com/@mcarlberg/bballsavingsAcct#main.py) from in-class exercises
